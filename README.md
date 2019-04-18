@@ -34,7 +34,7 @@ Input
 1
 6
 sachin tweet_id_1
-https://docs.google.com/document/d/1W1vtehjgki2c-d-7dth0rj6j0RmS6uNaLHvXGvgflTo/edit
+
 1/204/04/2019
 Python Coding Assignment - Google Docs
 sehwag tweet_id_2
